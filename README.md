@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Chalet-Hotel-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Chalet-Hotel-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Chalet-Hotel-Web-Essentials?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. 🏨 Chalé Hotel: Landing Page Institucional 🏨</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
@@ -36,7 +40,7 @@ Bem-vindo ao projeto **Chalé Hotel**! Este repositório apresenta uma interface
 Visualize a estrutura do site do hotel diretamente no seu navegador:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/chale-hotel/" target="_blank">
+  <a href="https://domisnnet.github.io/Chalet-Hotel-Web-Essentials/" target="_blank">
     <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -85,11 +89,17 @@ Siga os passos abaixo para fortalecer este projeto:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/chale-hotel/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Chalet-Hotel-Web-Essentials/fork) |
 | **02** | **Branch** | `git checkout -b feature/NovoTemaCores` |
 | **03** | **Commit** | `git commit -m 'feat: alteração para paleta dark mode'` |
 | **04** | **Push** | `git push origin feature/NovoTemaCores` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/chale-hotel/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Chalet-Hotel-Web-Essentials/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Chalet-Hotel?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Chalet-Hotel-Web-Essentials/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Chalet-Hotel-Web-Essentials/issues/new)
 
 ---
 
@@ -116,7 +126,7 @@ Siga os passos abaixo para fortalecer este projeto:
 
 Analise a estrutura HTML e as regras de estilização CSS:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/chale-hotel/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FChalet--Hotel--Web--Essentials-blue?style=for-the-badge&logo=github&labelColor=0d1117)](https://domisnnet.github.io/Chalet-Hotel-Web-Essentials/)
 
 ---
 
@@ -138,10 +148,12 @@ Este projeto foi construído para simular um ambiente de hotelaria real:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/chale-hotel/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Chalet-Hotel-Web-Essentials/blob/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/imagens/DomisDev.png" width="90" alt="Acessar perfil GitHub"> 
+</a>
