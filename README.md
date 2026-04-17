@@ -8,7 +8,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS-blueviolet)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/chale-hotel/blob/main/LICENSE)
 
-![Preview do Chalé Hotel](src/imagens/chalet-hotel.png)
+![Chalé Hotel](src/imagens/chalet-hotel.png)
 
 Bem-vindo ao projeto **Chalé Hotel**! Este repositório apresenta uma interface elegante e funcional para uma rede de hotéis com presença nas principais capitais brasileiras. O foco aqui foi criar um layout limpo, utilizando técnicas de posicionamento CSS para separar o conteúdo principal dos benefícios laterais, proporcionando uma navegação intuitiva para o hóspede.
 
@@ -132,7 +132,10 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Analise a estrutura HTML e as regras de estilização CSS:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FChalet--Hotel--Web--Essentials-blue?style=for-the-badge&logo=github&labelColor=0d1117)](https://domisnnet.github.io/Chalet-Hotel-Web-Essentials/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FChalet--Hotel--Web--Essentials-F7DF1E?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Chalet-Hotel-Web-Essentials)
 
 ---
 
